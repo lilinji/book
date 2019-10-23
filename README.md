@@ -5,7 +5,7 @@
 <a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-keke-green.svg?style=flat&colorA=009df2"></a>
 </p>
 
-当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知，不断的前行。
+当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知、不断的前行、砥砺前行。
 <p align="center">
 <img width="100%" align="center" src="images/1.jpg" />
 </p>
